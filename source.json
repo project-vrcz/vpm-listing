@@ -1,28 +1,21 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name": "project-vrcz listing",
+    "id": "xyz.misakal.vpm.project-vrcz",
+    "url": "https://project-vrcz.github.io/vpm-listing/index.json",
+    "author": {
+        "email": "lipww1234@foxmail.com",
+        "name": "project-vrcz",
+        "url": "https://github.com/project-vrcz"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+    "description": "Packages of project-vrcz",
+    "infoLink": {
+        "url": "https://github.com/project-vrcz",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "project-vrcz/yet-another-sdk-patch",
+        "project-vrcz/content-manager-connect"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages": []
 }
