@@ -14,7 +14,8 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
-        "project-vrcz/yet-another-sdk-patch"
+        "project-vrcz/yet-another-sdk-patch",
+        "project-vrcz/content-manager-connect"
     ],
     "packages": []
 }
